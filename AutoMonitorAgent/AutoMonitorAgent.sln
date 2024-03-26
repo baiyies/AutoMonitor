@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.291
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AutoMonitorAgent", "AutoMonitorAgent\AutoMonitorAgent.vcxproj", "{CDA0AEB8-1E6B-4439-A3F8-052643071490}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Release-Exe|x64 = Release-Exe|x64
+		Release-Exe|x86 = Release-Exe|x86
+		Release-Shellcode|x64 = Release-Shellcode|x64
+		Release-Shellcode|x86 = Release-Shellcode|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDA0AEB8-1E6B-4439-A3F8-052643071490}.Release-Exe|x64.ActiveCfg = Release-Exe|x64
+		{CDA0AEB8-1E6B-4439-A3F8-052643071490}.Release-Exe|x64.Build.0 = Release-Exe|x64
+		{CDA0AEB8-1E6B-4439-A3F8-052643071490}.Release-Exe|x86.ActiveCfg = Release-Exe|Win32
+		{CDA0AEB8-1E6B-4439-A3F8-052643071490}.Release-Exe|x86.Build.0 = Release-Exe|Win32
+		{CDA0AEB8-1E6B-4439-A3F8-052643071490}.Release-Shellcode|x64.ActiveCfg = Release-Shellcode|x64
+		{CDA0AEB8-1E6B-4439-A3F8-052643071490}.Release-Shellcode|x64.Build.0 = Release-Shellcode|x64
+		{CDA0AEB8-1E6B-4439-A3F8-052643071490}.Release-Shellcode|x86.ActiveCfg = Release-Shellcode|Win32
+		{CDA0AEB8-1E6B-4439-A3F8-052643071490}.Release-Shellcode|x86.Build.0 = Release-Shellcode|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0CCE0C6-9A5B-44A3-9AA3-79C4A343E92F}
+	EndGlobalSection
+EndGlobal

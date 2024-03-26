@@ -1,0 +1,12 @@
+main_entry
+get_kernel32_base
+calc_hashW2
+calc_hash
+get_proc_address_from_hash
+init_func
+PostData
+SendSreenshot
+GetScreenshotData
+SreenshotThread
+entry
+main_end
